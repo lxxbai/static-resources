@@ -1,0 +1,51 @@
+[
+	{
+		"version": "8",
+		"releaseDate": "2014-03-18",
+		"x64WindowsDownloadUrl": "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/8/jdk/x64/windows/OpenJDK8U-jdk_x64_windows_hotspot_8u422b05.zip",
+		"x32WindowsDownloadUrl": "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/8/jdk/x32/windows/OpenJDK8U-jdk_x86-32_windows_hotspot_8u422b05.zip",
+		"macDownloadUrl": "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/8/jdk/x64/mac/OpenJDK8U-jdk_x64_mac_hotspot_8u422b05.tar.gz"
+	},
+	{
+		"version": "11",
+		"releaseDate": "2018-09-25",
+		"x64WindowsDownloadUrl": "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/11/jdk/x64/windows/OpenJDK11U-jdk_x64_windows_hotspot_11.0.24_8.zip",
+		"x32WindowsDownloadUrl": "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/11/jdk/x32/windows/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.24_8.zip",
+		"macDownloadUrl": "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/11/jdk/x64/mac/OpenJDK11U-jdk_x64_mac_hotspot_11.0.24_8.tar.gz"
+	},
+	{
+		"version": "17",
+		"releaseDate": "2021-09-14",
+		"x64WindowsDownloadUrl": "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/17/jdk/x64/windows/OpenJDK17U-jdk_x64_windows_hotspot_17.0.12_7.zip",
+		"x32WindowsDownloadUrl": "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/17/jdk/x32/windows/OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.12_7.zip",
+		"macDownloadUrl": "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/17/jdk/x64/mac/OpenJDK17U-jdk_x64_mac_hotspot_17.0.12_7.tar.gz"
+	},
+	{
+		"version": "18",
+		"releaseDate": "2022-03-22",
+		"x64WindowsDownloadUrl": "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/18/jdk/x64/windows/OpenJDK18U-jdk_x64_windows_hotspot_18.0.2.1_1.zip",
+		"x32WindowsDownloadUrl": "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/18/jdk/x32/windows/OpenJDK18U-jdk_x86-32_windows_hotspot_18.0.2.1_1.zip",
+		"macDownloadUrl": "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/18/jdk/x64/mac/OpenJDK18U-jdk_x64_mac_hotspot_18.0.2.1_1.tar.gz"
+	},
+	{
+		"version": "19",
+		"releaseDate": "2022-09-20",
+		"x64WindowsDownloadUrl": "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/19/jdk/x64/windows/OpenJDK19U-jdk_x64_windows_hotspot_19.0.2_7.zip",
+		"x32WindowsDownloadUrl": "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/19/jdk/x32/windows/OpenJDK19U-jdk_x86-32_windows_hotspot_19.0.2_7.zip",
+		"macDownloadUrl": "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/19/jdk/x64/mac/OpenJDK19U-jdk_x64_mac_hotspot_19.0.2_7.tar.gz"
+	},
+	{
+		"version": "20",
+		"releaseDate": "2023-03-21",
+		"x64WindowsDownloadUrl": "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/20/jdk/x64/windows/OpenJDK20U-jdk_x64_windows_hotspot_20.0.2_9.zip",
+		"x32WindowsDownloadUrl": "",
+		"macDownloadUrl": "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/20/jdk/x64/mac/OpenJDK20U-jdk_x64_mac_hotspot_20.0.2_9.tar.gz"
+	},
+	{
+		"version": "21",
+		"releaseDate": "2023-09-19",
+		"x64WindowsDownloadUrl": "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/21/jdk/x64/windows/OpenJDK21U-jdk_x64_windows_hotspot_21.0.4_7.zip",
+		"x32WindowsDownloadUrl": "",
+		"macDownloadUrl": "https://mirrors.tuna.tsinghua.edu.cn/Adoptium/21/jdk/x64/mac/OpenJDK21U-jdk_x64_mac_hotspot_21.0.4_7.tar.gz"
+	}
+]
